@@ -1,0 +1,10 @@
+﻿  FBullCowGame.cpp
+FBullCowGame.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating code
+  449 of 450 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BullCowGame.vcxproj -> E:\Users\LadyJoker\Documents\visual studio 2015\Projects\Bulls-And-Cows-Game\Release\BullCowGame.exe
+  BullCowGame.vcxproj -> E:\Users\LadyJoker\Documents\visual studio 2015\Projects\Bulls-And-Cows-Game\Release\BullCowGame.pdb (Full PDB)
